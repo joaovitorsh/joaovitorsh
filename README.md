@@ -16,7 +16,8 @@
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://github.com/joaovitorsh)](https://dev.to/joaovitorsh)
 </h4>
 
-## 💻 Tech Stack:
+<h3 align="center"> 💻 Tech Stack:</h3>
+
 <h4 align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
@@ -29,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
 </h4>
 
-## 📊 GitHub Stats:
+<h3 align="center"> 📊 GitHub Stats: </h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="joaovitorsh" />
 
