@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hi, I'm João Vítor 👨🏻‍💻 - @joaovitorsh <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> </h2>
+<h2 align="center">Hi, I'm João Vítor 👨🏻‍💻 - @joaovitorsh <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> </h2>
 
 🇧🇷 - Olá meu nome é João Vítor, sou estudante de Sistemas de Informações, atualmente estou no meu 4° período da faculdade, além disso estudo por fora algumas tecnologias que acho divertido e interessante, sou um entusiasta do universo open-source, amante de linux e tudo que envolve terminal e código, gosto muito de ouvir música, sair e jogar alguns jogos. <br>
 
@@ -16,7 +16,7 @@
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://github.com/joaovitorsh)](https://dev.to/joaovitorsh)
 </h4>
 
-<h3 align="center"> 💻 Tech Stack:</h3>
+<h2 align="center">💻 Tech Stack:</h2>
 
 <h4 align="center">
 
@@ -30,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
 </h4>
 
-<h3 align="center"> 📊 GitHub Stats: </h3>
+<h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="joaovitorsh" />
 
