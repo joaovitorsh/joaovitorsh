@@ -14,7 +14,8 @@ Olá meu nome é João Vítor, sou estudante de Sistemas de Informações, atual
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=joaovitorsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=joaovitorsh&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=joaovitorsh&theme=dark&hide_border=false) <br><br>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joaovitor.sh&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
@@ -22,6 +23,6 @@ Olá meu nome é João Vítor, sou estudante de Sistemas de Informações, atual
 ---
 [![](https://visitcount.itsvg.in/api?id=joaovitor.sh&icon=9&color=12)](https://visitcount.itsvg.in) <br>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+ ![Snake animation](https://github.com/eagrundy/joaovitorsh/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
