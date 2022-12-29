@@ -22,7 +22,6 @@ Olá meu nome é João Vítor, sou estudante de Sistemas de Informações, atual
 ---
 [![](https://visitcount.itsvg.in/api?id=joaovitor.sh&icon=9&color=12)](https://visitcount.itsvg.in) <br>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
