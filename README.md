@@ -43,4 +43,4 @@
 ![Snake animation](https://github.com/joaovitorsh/joaovitorsh/blob/output/github-contribution-grid-snake.svg)
 </h4>
 
-[![](https://visitcount.itsvg.in/api?id=joaovitor.sh&icon=9&color=12)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=joaovitor.sh&icon=9&color=12)](https://visitcount.itsvg.in)
