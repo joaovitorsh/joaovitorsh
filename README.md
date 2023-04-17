@@ -1,18 +1,18 @@
 
 <h2 align="center">Hi, I'm João Vítor 👨🏻‍💻 - @joaovitorsh <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> </h2>
 
-🇧🇷 - Olá meu nome é João Vítor, sou estudante de Sistemas de Informações, atualmente estou no meu 4° período da faculdade, além disso estudo por fora algumas tecnologias que acho divertido e interessante, sou um entusiasta do universo open-source, amante de linux e tudo que envolve terminal e código, gosto muito de ouvir música, sair e jogar alguns jogos. <br>
+🇧🇷 - Olá meu nome é João Vítor, sou Analista de Testes Jr. e estudante de Análise e Desenvolvimento de Sistemas, sou apaixonado por python e é atualmente a tecnologia que uso no meu dia a dia, além disso sou apaixonado pelo universo Linux( i'm Arch user rs), sou um entusiasta do universo open-source e tudo que envolve terminal e código, gosto muito de ouvir música, sair e jogar alguns jogos. <br>
 
-🇺🇸 - Hello my name is João Vítor, I am a student of Information Systems, currently in my 4th period of college, I also study some technologies that I find fun and interesting, I am an enthusiast of the open-source universe, I love Linux and everything that involves terminal and code, I love to listen to music, go out and play some games. <br>
+🇺🇸 - Hello my name is João Vítor, I'm a Jr. Test Analyst and System Analysis and Development student, I'm passionate about python and it's currently the technology I use in my day to day, besides that I'm passionate about the Linux universe ( i'm Arch user lol), I'm an open-source enthusiast and everything that involves terminal and code, I love listening to music, going out and playing some games. <br>
 
-🇪🇸 - Hola mi nombre es João Vítor, soy un estudiante de Sistemas de Información, actualmente en mi 4 º período de la universidad, también estudio fuera de algunas tecnologías que me parece divertido e interesante, soy un entusiasta del universo de código abierto, linux amante y todo lo que implica terminal y el código, me encanta escuchar música, salir y jugar algunos juegos. <br>
+🇪🇸 - Hola mi nombre es João Vítor, soy Analista de Pruebas Jr. y estudiante de Análisis y Desarrollo de Sistemas, me apasiona python y actualmente es la tecnología que utilizo en mi día a día, también me apasiona el universo Linux ( soy Arch user rs), soy un entusiasta del universo open-source y todo lo que involucra terminal y código, me encanta escuchar música, salir y jugar algunos juegos. <br>
 
 <h4 align="center">
   
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/joaovitorsh)](https://twitter.com/joaovitorsh_)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://github.com/joaovitorsh)](https://twitter.com/joaovitorsh_)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://github.com/joaovitorsh)](https://www.instagram.com/joaovitor.sh/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/joaovitorsh)](https://www.linkedin.com/in/joaovitorsh/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/joaovitorsh)](https://open.spotify.com/user/xjhreud3q65byx6ngng5pxde2?si=d66c91f4ea8a45ae)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/joaovitorsh)](https://open.spotify.com/user/joão;goxt)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://github.com/joaovitorsh)](https://dev.to/joaovitorsh)
 </h4>
 
