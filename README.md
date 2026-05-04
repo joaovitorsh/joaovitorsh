@@ -12,7 +12,6 @@ Sou um **Tech Lead e Desenvolvedor Backend Python** apaixonado por resolver desa
 - ✅ **Qualidade:** Testes automatizados com **Pytest** e foco em escalabilidade, performance e confiabilidade.
 - 🎓 **Formação em andamento:** Análise e Desenvolvimento de Software — **UniCesumar** (conclusão prevista: 2027).
 
-📫 **Links Importantes:** [Meus Links](https://linktr.ee/joaovitorpy)
 
 ---
 
@@ -81,7 +80,6 @@ Sou um **Tech Lead e Desenvolvedor Backend Python** apaixonado por resolver desa
 <h4 align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorsh/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/joaovitorpy_)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/joaovitorpy)
 
 </h4>
