@@ -10,12 +10,11 @@
 ### 🚀 **Sobre Mim**
 
 - 🔧 **Stack principal:** **FastAPI**, **Django**, **Django Rest Framework**, **PostgreSQL** e **AWS**.
-- 📨 **Mensageria:** Arquiteturas assíncronas e orientadas a eventos com **Kafka**.
+- 📨 **Mensageria:** Arquiteturas assíncronas e orientadas a eventos com **RabbitMQ**.
 - ☁️ **Cloud:** **AWS** (Lambda, S3, CloudWatch, Triggers) com foco em observabilidade.
 - 🔐 **Segurança:** Autenticação e autorização com **Keycloak**.
 - ✅ **Qualidade:** Testes automatizados com **Pytest** (unitários, integração e regressão), **TDD** e code reviews.
 - 🏗️ **Arquitetura:** Microsserviços, arquiteturas distribuídas e orientadas a eventos.
-- 🤖 **IA Generativa:** LLMs, **RAG**, **LangChain**, **LlamaIndex**, Engenharia de Prompt e **MCP**.
 - 🎓 **Formação em andamento:** Análise e Desenvolvimento de Software — **UniCesumar** (conclusão prevista: 2027).
 
 ---
@@ -36,7 +35,7 @@
 
 <h4 align="center">📨 Mensageria</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" />
 </p>
 
 <h4 align="center">☁️ Cloud & Infraestrutura</h4>
@@ -53,16 +52,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-<h4 align="center">🤖 IA Generativa & LLMs</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=openai" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0066CC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logoColor=white" />
 </p>
 
 <h4 align="center">✅ Qualidade & Testes</h4>
@@ -92,7 +81,7 @@ Desenvolvimento e evolução de sistema de logística de transporte com arquitet
 
 **Arquitetura & Escalabilidade**
 - Arquiteturas distribuídas e orientadas a eventos com foco em desacoplamento e escalabilidade.
-- Desenvolvimento de integrações com mensageria para fluxos assíncronos (**Kafka**).
+- Desenvolvimento de integrações com mensageria para fluxos assíncronos (**RabbitMQ**).
 - Automação de fluxos com **AWS Lambda** e Triggers.
 
 **Qualidade, Testes & Code Review**
@@ -115,7 +104,7 @@ Desenvolvimento e evolução de sistema de logística de transporte com arquitet
 Sistema backend integrado a um app de transporte de cargas, com arquitetura preparada para +10.000 usuários.
 
 - **APIs e Integrações:** FastAPI, Django Rest Framework, PostgreSQL.
-- **Mensageria:** Kafka para fluxos assíncronos e orientados a eventos.
+- **Mensageria:** RabbitMQ para fluxos assíncronos e orientados a eventos.
 - **Infraestrutura:** Docker, AWS CloudWatch, Lambda, S3 e Triggers.
 - **Autenticação:** Keycloak para controle de acesso seguro.
 - **Qualidade:** Testes automatizados com Pytest (unitários, integração e regressão).
